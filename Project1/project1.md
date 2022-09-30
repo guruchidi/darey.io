@@ -22,4 +22,5 @@ Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
   - Connected to the AWS instance on Putty and installed PHP  and runned the following command to check the version installed.
    ` sudo apt install php libapache2-mod-php php-mysql`  ` php -v`
    
-   
+**Verifying that PHP has been installed**
+    ![alt text](https://github.com/guruchidi/darey.io/blob/main/Project1/php%20intalled.png)
