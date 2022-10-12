@@ -1,4 +1,4 @@
-# DevOps-Project001
+# DevOps-Project1
 First project from the guided [darey.io](https://www.darey.io) DevOps Engineer Scholarship 
 
 **Project Implementation**
